@@ -1,4 +1,3 @@
-Supply Chain & Operations – Incident Management System Architecture
 # Supply Chain & Operations – Incident Management System Architecture
 1. Solution Overview
 This project implements an AI-driven Incident Management workflow for Supply Chain and Operations using a multi-agent architecture built with CrewAI and OpenAI LLMs.
