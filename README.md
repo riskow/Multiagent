@@ -1,4 +1,4 @@
-#**AI-Powered Supply Chain Incident Management using CrewAI**
+**AI-Powered Supply Chain Incident Management using CrewAI**
 
 This repository demonstrates a multi-agent AI workflow for Supply Chain and Operations Incident Management using CrewAI and OpenAI LLMs.
 
